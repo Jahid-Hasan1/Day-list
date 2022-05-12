@@ -1,4 +1,5 @@
 Saturday.
-sunday -hasan
+sunday
+monday
 friday
 wednesday
