@@ -1,3 +1,5 @@
 Saturday.
 sunday
 monday
+friday
+wednesday
